@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to build a casserole recipe webpage, including three separate recipes, for my current TOP lesson. The skills I have demonstrated in this project include an understanding of the HTML layout for each page, without having to refer to my current TOP lesson for steps to set up each webpage. I only utilized the code and webpage tab from my first recipe to build the proceeding recipes. One thing I could have done differently is make more commits throughout the construction of each webpage.
